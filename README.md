@@ -104,6 +104,9 @@ Supported Actions
     <tr>
         <td>Note</td><td>Log a message/note.</td><td>any text</td><td>No</td>
     </tr>
+    <tr>
+        <td>Capture</td><td>Capture a screenshot</td><td>filename for the output</td><td>No</td>
+    </tr>
 </table>
 
 
